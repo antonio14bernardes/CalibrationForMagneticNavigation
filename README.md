@@ -21,12 +21,12 @@ This repository contains the code accompanying the paper **“Structured Learnin
 If you use this repository in your research, please cite the accompanying paper:
 
 ```bibtex
-@article{magcalibration_2026,
+@article{Bernardes2026StructuredLearning,
+  author  = {Bernardes, Antonio and Zughaibi, Jasan and Muehlebach, Michael and Nelson, Bradley J.},
   title   = {Structured Learning for Electromagnetic Field Modeling and Real-Time Inversion},
-  author  = {TODO},
-  journal = {TODO},
+  journal = {arXiv preprint arXiv:2602.06618},
   year    = {2026},
-  note    = {TODO: update with final venue / DOI / arXiv},
+  url     = {https://arxiv.org/abs/2602.06618}
 }
 ```
 
