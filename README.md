@@ -80,8 +80,8 @@ All learning-based model code lives in:
 
 Trained parameters for learning-based models:
 
-- **Neural models:** `notebooks/training/params/`
-- **Gradient-boosted linear tree regressor:** `notebooks/training/trees/`
+- **Neural models:** `notebooks/training/octomag_params/` or `notebooks/training/navion_params/`
+- **Gradient-boosted linear tree regressor:** `notebooks/training/octomag_trees/` or `notebooks/training/navion_trees/`
 
 ### MPEM baseline
 
