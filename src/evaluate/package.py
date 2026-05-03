@@ -59,6 +59,9 @@ class EvaluationPackage:
     @property
     def gradient_metrics(self):
         return self._gradient_metrics_dict
+    @property
+    def gradient_references(self):
+        return self._gradient_reference_dict
     
     def print_phantoms(self):
         for phantom in self._phantoms:
