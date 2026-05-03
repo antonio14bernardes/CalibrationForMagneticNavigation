@@ -1,12 +1,12 @@
 from matplotlib import rc_context
 
 latex_prms_singlecol = {
-    "label_size": 9,        # overall font.size
-    "tick_size": 8,
-    "axes_labelsize": 9,
-    "legend_size": 8,
-    "title_size": 9,        # axes titles
-    "box_font": 8,
+    "label_size": 10,        # overall font.size
+    "tick_size": 9,
+    "axes_labelsize": 10,
+    "legend_size": 10,
+    "title_size": 10,        # axes titles
+    "box_font": 9,
     # keep figsize in the plotting function (or set here if you prefer)
 }
 
