@@ -1,1 +1,1 @@
-SPLIT_SEED: int = 42
+SPLIT_SEED: int = 1
