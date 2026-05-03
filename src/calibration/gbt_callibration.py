@@ -184,6 +184,7 @@ class GBTCalibration(Calibration):
             subsample: float = 1.0,
             colsample_bytree: float = 1.0,
             random_state: int = 3,
+            reg_lambda: float = 0.0,
 
             # Early stopping
             early_stopping_patience: int = 200,
@@ -244,7 +245,7 @@ class GBTCalibration(Calibration):
             subsample = subsample,
             colsample_bytree = colsample_bytree,
             random_state = random_state,
-            reg_lambda = 0.0,
+            reg_lambda = reg_lambda,
 
             linear_tree = True,
             tree_learner = "serial",
