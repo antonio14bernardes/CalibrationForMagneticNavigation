@@ -24,11 +24,12 @@ If you use this repository in your research, please cite the accompanying paper:
 @article{Bernardes2026StructuredLearning,
   author  = {Bernardes, Antonio and Zughaibi, Jasan and Muehlebach, Michael and Nelson, Bradley J.},
   title   = {Structured Learning for Electromagnetic Field Modeling and Real-Time Inversion},
-  journal = {arXiv preprint arXiv:2602.06618},
+  journal = {Robotics: Science and Systems},
   year    = {2026},
-  url     = {https://arxiv.org/abs/2602.06618}
+  url     = {https://www.roboticsproceedings.org/rss22/p165.pdf}
 }
 ```
+Link to arxiv: https://arxiv.org/pdf/2602.06618
 
 ## Installation
 
